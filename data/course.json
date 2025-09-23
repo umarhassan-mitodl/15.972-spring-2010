@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Business",
+      "Entrepreneurship"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "legacy_uid": "dcc30bcd-b971-b5d8-9671-df19af3e5caa",
+  "instructors": {
+    "content": [
+      "17613cfe-b8f0-26b1-d1e0-e56fb01a40c9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cd9ed026-2206-bef5-d8a2-4cf38369dfb3",
+    "website": "15-972-professional-seminar-in-sustainability-spring-2010"
+  },
+  "course_title": "Professional Seminar in Sustainability",
+  "course_description": "Sustainability challenges organizations to address the implications \u2013 and responses \u2013 in their own operations and supply chain, products/services/markets, and community responsibilities. This course exposes students to professionals and organizations who are actively working toward making their organizations and industries sustainable.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.972",
+  "course_image_thumbnail": {
+    "content": "701a004d-7a23-4021-322c-79bb12cb3382",
+    "website": "15-972-professional-seminar-in-sustainability-spring-2010"
+  },
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "site_uid": "e5d9bb46-bee9-4046-b9ee-f14870a1ecf8",
+  "site_short_id": "15.972-spring-2010",
+  "site_url_path": "courses/15-972-professional-seminar-in-sustainability-spring-2010",
+  "title": "Course Metadata"
+}
