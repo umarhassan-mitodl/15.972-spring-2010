@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of readings assigned for each session
   in preparation for the guest presentation and class discussion.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

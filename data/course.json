@@ -36,6 +36,7 @@
     "website": "15-972-professional-seminar-in-sustainability-spring-2010"
   },
   "course_title": "Professional Seminar in Sustainability",
+  "hide_download": true,
   "course_description": "Sustainability challenges organizations to address the implications \u2013 and responses \u2013 in their own operations and supply chain, products/services/markets, and community responsibilities. This course exposes students to professionals and organizations who are actively working toward making their organizations and industries sustainable.\n",
   "department_numbers": [
     "15"
@@ -46,6 +47,7 @@
     "content": "701a004d-7a23-4021-322c-79bb12cb3382",
     "website": "15-972-professional-seminar-in-sustainability-spring-2010"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Projects with Examples"
   ],

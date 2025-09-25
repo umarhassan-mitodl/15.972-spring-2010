@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://web.archive.org/web/20091108064929/http://www.stonyfield.com/healthy_planet/index.jsp
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Healthy Planet
