@@ -5,8 +5,9 @@ has_external_license_warning: true
 hide_download: true
 hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: check_failed
+status: broken
 title: Social Cause and Sustainability Lessons from Stonyfield Farms' Hirshberg
 uid: 1d0220f7-0286-45b9-8826-cb3dd1d25711
+url_status_code: 404
 wayback_url: ''
 ---
